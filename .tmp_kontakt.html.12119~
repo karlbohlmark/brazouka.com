@@ -7,8 +7,8 @@
     </head>
     <body>
         <div id="container" style="text-align:center;">
-            <div id="topnav" style="text-align:center;">
-<ul class="top_navigation">
+            <div id="topnav" style="text-align:center">
+                <ul class="top_navigation">
                     <li>
                         <a href="index.html">Hem</a>
                     </li>
@@ -32,35 +32,18 @@
                     </li>
                 </ul>
             </div>
-<img src="images/banner04.jpg" width="959"><br />
-            <div id="maincontent" style="margin:0 auto; margin-bottom: 30px;">
-              <p class="cushycms"><div style="text-align: justify">
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
-                <p>H&ouml;r av dig till oss om du vill veta mer om v&aring;ra kurser, fester eller shower! Vi kan erbjuda shower, privatlektioner eller workshops f&ouml;r speciella tillf&auml;llen som m&ouml;hippa/svensexa, f&ouml;retagsfester och andra evenemang.</p>
-</div></p>
-				<div class="info cushycms">
-				  <table width="638" border="0" align="center">
-                    <tr>
-                      <td><img src="images/mail.jpg" alt="mail" width="312" height="68"><br>
-                        <a href="mailto:brazoukasthlm@gmail.com">brazoukasthlm@gmail.com </a><br />
-                        <br>                        <img src="images/danslokal.jpg" alt="danslokal" width="312" height="68"><br>
-                      SMAC, &Aring;s&ouml;gatan 153 </td>
-                      <td><br>
-                        <img src="images/telefon.jpg" alt="telefon" width="312" height="68"><br />
-0736 75 69 45, 070 748 73 31 <br />
-<strong><span class="label"><br>
-<img src="images/facebook2.jpg" alt="facebook" width="312" height="68"><br>
-</span></strong> Facebook: Brazouka Stockholm<br>
-MySpace: 
-<a href="www.myspace.com/brazouka">www.myspace.com/brazouka </a></td>
-                    </tr>
-                  </table>
-				  <p><br />
-				  </p>
-			  </div>
-          </div>
-	</div>
+            <br>
+            <div id="maincontent" style="margin:0 auto">
+     
+                <img  src="images/3m.jpg" alt="" width="220px" style="margin-bottom:10px;"/>
+                <p class="cushycms"><div style="text-align: justify">H&ouml;r av dig till oss om du vill veta mer om v&aring;ra kurser, fester eller shower! Vi kan erbjuda shower, privatlektioner eller workshops f&ouml;r speciella tillf&auml;llen som m&ouml;hippa/svensexa, f&ouml;retagsfester och andra evenemang.</div></p>
+				<div class="info cushycms"><strong><span class="label">Mail</span></strong><span class="label">:</span> brazoukasthlm@gmail.com <br />
+<strong><span class="label">Adress danslokal:</span></strong> SMAC, &Aring;s&ouml;gatan 153 <br />
+<strong><span class="label">Telefon</span></strong><span class="label">:</span> 0736 75 69 45, 070 748 73 31 <br />
+<strong><span class="label">Facebookgrupp:</span></strong> Brazouka Stockholm <br />
+www.myspace.com/brazouka <br /></div>
+            </div>
+			</div>
 			<div class="footer">Brazouka | brazoukasthlm@gmail.com</div>
 			<script type="text/javascript">
 var domainy = location.protocol == "https:" ? "https://static.getclicky.com" : "http://static.getclicky.com";

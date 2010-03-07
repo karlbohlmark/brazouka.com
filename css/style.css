@@ -7,16 +7,19 @@ html, body, h1, h2, h3, div, p, ul, ol{
 	border-width:0px;
 }
 
-/*
-html{	background-color:#FF8C00;}
-*/
-html{	background-color:#009001;}
+html{
+	background:url(../images/bg.jpg) repeat-x;
+	background-color:#009001;
+}
 
 em{
 	font-weight:bold;
 	font-style:normal;
 }
-li{margin:0px;}
+
+li{
+	margin:0px;
+}
 
 h3{
 	margin-top:15px;
@@ -44,6 +47,7 @@ div#container{
 	background-color:#ffffff;
 	width:959px;
 	margin:auto;
+	margin-top:20px;
 	padding-bottom:10px;
 	text-align:center;
 }
@@ -52,9 +56,11 @@ div.footer{
 	background-color:#000000;
 	color:#ffffff;	
 	width:959px;
-	line-height:18px;
-	padding-bottom:3px;
+	height:40px;
+	line-height:40px;
+	padding-bottom:4px;
 	margin:auto;
+	margin-bottom:20px;
 	text-align:center;
 }
 
@@ -76,20 +82,19 @@ div#maincontent{
 }
 
 ul.top_navigation{
-	background-color:#000000;/*006a00*/
+	background-color:#000000;
 	list-style:none;
-	
-text-align:center;
+	height:40px;
+	text-align:center;
 }
 
 ul.top_navigation li{
-	margin:0px;
+	margin:6px;
 	display:inline;
-	padding-left:5px;
-	padding-right:5px;
-	line-height:180%;
+	padding-left:10px;
+	padding-right:10px;
+	line-height:160%;
 	font-size:12px;
-	
 }
 
 
@@ -97,16 +102,16 @@ img.top_3{
 	height:220px;
 	float:left;
 }
+
 div.topnav{
 	text-align:left;
-	
+	margin-top:20px;
 }
 
 ul.top_navigation li, ul.top_navigation li a{
-	color:#ffffff;/**/
+	color:#ffffff;
 	text-decoration:none;
 }
-
 
 ul.top_navigation li a:hover{
 	color:#ffffff;
@@ -114,13 +119,12 @@ ul.top_navigation li a:hover{
 
 ul.top_navigation li.selected{
 	color:#FF8C00;
+	font-size:22px;
 }
-
 
 div{
 	text-align:left;
 }
-
 
 body{
 	text-align:center;
@@ -146,11 +150,12 @@ div#paragraphs{
 }
 
 .paragraph{
-	width:300px;
-	float:left;	
+	width:280px;
+	float:left;
 	position:relative;
-	margin-left:10px;
+	margin-left:30px;
 	right:5px;
+	margin-bottom:30px;
 }
 
 .paragraph.of2{
