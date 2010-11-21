@@ -1,0 +1,187 @@
+html, body, h1, h2, h3, div, p, ul, ol{
+	padding:0px;
+	margin:0px;
+	font-weight:normal;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	border-width:0px;
+}
+
+html{
+	background:url(../images/bg.jpg) repeat-x;
+	background-color:#009001;
+}
+
+em{
+	font-weight:bold;
+	font-style:normal;
+}
+
+li{
+	margin:0px;
+}
+
+h3{
+	margin-top:15px;
+	margin-bottom:10px;
+	font-weight:bold;
+}
+
+h2{
+	font-weight:normal;	
+	font-size:19px;
+	margin-bottom:3px;	
+	margin-top:25px;
+}
+
+h1{
+	font-size:16px;
+	margin-bottom:10px;
+	clear:left;
+	letter-spacing:1px;
+	font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+div#container{
+	min-height:400px;
+	background-color:#ffffff;
+	width:959px;
+	margin:auto;
+	margin-top:20px;
+	padding-bottom:10px;
+	text-align:center;
+}
+
+div.footer{
+	background-color:#000000;
+	color:#ffffff;	
+	width:959px;
+	height:40px;
+	line-height:40px;
+	padding-bottom:4px;
+	margin:auto;
+	margin-bottom:20px;
+	text-align:center;
+}
+
+div.info{
+	line-height:140%;
+}
+
+span.label{
+	font-weight:bold;
+}
+
+p{
+	line-height:130%;
+	margin-bottom:10px;
+}
+
+div#maincontent{
+	width:650px;
+}
+
+ul.top_navigation{
+	background-color:#000000;
+	list-style:none;
+	height:40px;
+	text-align:center;
+}
+
+ul.top_navigation li{
+	margin:6px;
+	display:inline;
+	padding-left:10px;
+	padding-right:10px;
+	line-height:160%;
+	font-size:12px;
+}
+
+
+img.top_3{
+	height:220px;
+	float:left;
+}
+
+div.topnav{
+	text-align:left;
+	margin-top:20px;
+}
+
+ul.top_navigation li, ul.top_navigation li a{
+	color:#ffffff;
+	text-decoration:none;
+}
+
+ul.top_navigation li a:hover{
+	color:#ffffff;
+}
+
+ul.top_navigation li.selected{
+	color:#FF8C00;
+	font-size:22px;
+}
+
+div{
+	text-align:left;
+}
+
+body{
+	text-align:center;
+}
+
+div#paragraphs{
+	margin-top:10px;
+	margin-left:15px;
+	float:none;
+	text-align:center;
+	vertical-align:top;
+}
+
+.top_images{
+	text-align:center;
+}
+
+.top_images img{
+	margin:0px;
+	border-width:0px;
+	padding:0px;
+	height:321px;
+}
+
+.paragraph{
+	width:280px;
+	float:left;
+	position:relative;
+	margin-left:30px;
+	right:5px;
+	margin-bottom:30px;
+}
+
+.paragraph.of2{
+	width:370px;
+	margin-left:30px;
+}
+
+.paragraph.second.of2{
+	margin-left:90px;
+}
+
+.paragraph.of2 blockquote{
+	margin:0 15px;
+	font-style:italic;
+}
+
+.paragraph.middle{
+
+}
+
+.homepage .paragraph{
+/*
+	width:250px;
+*/
+}
+
+a{
+	color:#999999;
+}
